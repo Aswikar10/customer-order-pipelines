@@ -1,0 +1,6 @@
+order_id,customer_email,order_date,sku,qty,unit_price,status
+1001,asha.rai@example.com,2025-03-01,SKU-1,2,250.00,shipped
+1001,asha.rai@example.com,2025-03-01,SKU-2,1,1800.00,shipped
+1002,bikash@example.com,2025-03-05,SKU-1,1,250.00,delivered
+1003,new.user@example.com,2025-03-07,SKU-3,1,900.00,pending
+1004,ASHA.RAI@example.com,2025-03-10,sku-3,2,900.00,delivered

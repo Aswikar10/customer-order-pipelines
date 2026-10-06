@@ -1,0 +1,4 @@
+supplier_id,supplier_name,sku,cost_price
+S01,TechWorld,SKU-1,150.00
+S01,TechWorld,SKU-2,1200.00
+S02,GadgetHub,sku-3,600.00
